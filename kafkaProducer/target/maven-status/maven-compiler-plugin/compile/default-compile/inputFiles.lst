@@ -1,0 +1,17 @@
+/home/nikittossii/Documents/kafkaProducer/src/main/java/lab5/games/db/model/User.java
+/home/nikittossii/Documents/kafkaProducer/src/main/java/lab5/games/service/LoginService.java
+/home/nikittossii/Documents/kafkaProducer/src/main/java/lab5/games/db/model/GamesEntity.java
+/home/nikittossii/Documents/kafkaProducer/src/main/java/lab5/games/db/dao/UserRepository.java
+/home/nikittossii/Documents/kafkaProducer/src/main/java/lab5/games/service/LoggedUserDetailsService.java
+/home/nikittossii/Documents/kafkaProducer/src/main/java/lab5/games/Application.java
+/home/nikittossii/Documents/kafkaProducer/src/main/java/lab5/games/config/ControllersConfig.java
+/home/nikittossii/Documents/kafkaProducer/src/main/java/lab5/games/rest/StartController.java
+/home/nikittossii/Documents/kafkaProducer/src/main/java/lab5/games/rest/GameController.java
+/home/nikittossii/Documents/kafkaProducer/src/main/java/lab5/games/service/LoginServiceImpl.java
+/home/nikittossii/Documents/kafkaProducer/src/main/java/lab5/games/config/WebSecurityConfig.java
+/home/nikittossii/Documents/kafkaProducer/src/main/java/lab5/games/rest/ForbiddenException.java
+/home/nikittossii/Documents/kafkaProducer/src/main/java/lab5/games/config/TomcatConfig.java
+/home/nikittossii/Documents/kafkaProducer/src/main/java/lab5/games/service/GameService.java
+/home/nikittossii/Documents/kafkaProducer/src/main/java/lab5/games/db/dao/GameRepository.java
+/home/nikittossii/Documents/kafkaProducer/src/main/java/lab5/games/service/GameServiceImpl.java
+/home/nikittossii/Documents/kafkaProducer/src/main/java/lab5/games/service/MyLogin.java

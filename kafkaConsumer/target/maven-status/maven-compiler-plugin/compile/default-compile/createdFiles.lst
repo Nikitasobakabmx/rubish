@@ -1,0 +1,17 @@
+lab5/games/config/TomcatConfig$1.class
+lab5/games/Iterator.class
+lab5/games/service/LoginService.class
+lab5/games/Application.class
+lab5/games/config/ControllersConfig.class
+lab5/games/service/LoggedUserDetailsService.class
+lab5/games/config/TomcatConfig.class
+lab5/games/db/dao/GameRepository.class
+lab5/games/db/dao/UserRepository.class
+lab5/games/service/GameServiceImpl.class
+lab5/games/db/model/GamesEntity.class
+lab5/games/db/model/User.class
+lab5/games/config/WebSecurityConfig.class
+lab5/games/service/MyLogin.class
+lab5/games/service/GameService.class
+lab5/games/service/LoginServiceImpl.class
+lab5/games/DataBaseExecutor.class
