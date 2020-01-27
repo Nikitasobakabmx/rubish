@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63001738-dfc1-452e-adaa-34a56e1c42a9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lab5/games/db/model/GamesEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lab5/games/db/model/GamesEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lab5/games/db/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lab5/games/db/model/User.java" afterDir="false" />
-    </list>
+    <list default="true" id="63001738-dfc1-452e-adaa-34a56e1c42a9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +71,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kafkaConsumer" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -151,7 +146,7 @@
       <workItem from="1576225126366" duration="239000" />
       <workItem from="1578160272119" duration="752000" />
       <workItem from="1580059934285" duration="17039000" />
-      <workItem from="1580107415738" duration="713000" />
+      <workItem from="1580107415738" duration="1173000" />
     </task>
     <servers />
   </component>
@@ -179,10 +174,10 @@
       <screen x="0" y="27" width="1600" height="873" />
     </state>
     <state x="533" y="211" width="524" height="511" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1600.873@0.27.1600.873" timestamp="1580085660501" />
-    <state x="578" y="225" width="424" height="491" key="FileChooserDialogImpl" timestamp="1580091547514">
+    <state x="578" y="225" width="424" height="491" key="FileChooserDialogImpl" timestamp="1580108590918">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
-    <state x="578" y="225" width="424" height="491" key="FileChooserDialogImpl/0.27.1600.873@0.27.1600.873" timestamp="1580091547514" />
+    <state x="578" y="225" width="424" height="491" key="FileChooserDialogImpl/0.27.1600.873@0.27.1600.873" timestamp="1580108590918" />
     <state width="1065" height="215" key="GridCell.Tab.0.bottom" timestamp="1580081168991">
       <screen x="0" y="27" width="1600" height="873" />
     </state>

@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 public class DataBaseExecutor {
     private String JDBC_DRIVER = "org.postgresql.Driver";
-    private String DATABASE_URL = "jdbc:postgresql://localhost:5432/postgres";
+    private String DATABASE_URL = "jdbc:postgresql://localhost:5432/shop";
     private String DATABASE_USER = "nikittossii";
     private String DATABASE_PASSWORD = "111261";
     private String TABLE_GAMES = "games";
