@@ -3,7 +3,7 @@ package lab5.games.db.model;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "users", schema = "public", catalog = "postgres")
+@Table(name = "users")
 public class User {
 
     @Id
