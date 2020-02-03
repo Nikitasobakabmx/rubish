@@ -1,0 +1,17 @@
+/home/nikittossii/Documents/hehe/rubish/laba4-5/src/main/java/lab/games/Application.java
+/home/nikittossii/Documents/hehe/rubish/laba4-5/src/main/java/lab/games/rest/StartController.java
+/home/nikittossii/Documents/hehe/rubish/laba4-5/src/main/java/lab/games/service/LoginServiceImpl.java
+/home/nikittossii/Documents/hehe/rubish/laba4-5/src/main/java/lab/games/db/model/GamesEntity.java
+/home/nikittossii/Documents/hehe/rubish/laba4-5/src/main/java/lab/games/service/GameService.java
+/home/nikittossii/Documents/hehe/rubish/laba4-5/src/main/java/lab/games/service/GameServiceImpl.java
+/home/nikittossii/Documents/hehe/rubish/laba4-5/src/main/java/lab/games/db/dao/GameRepository.java
+/home/nikittossii/Documents/hehe/rubish/laba4-5/src/main/java/lab/games/db/model/User.java
+/home/nikittossii/Documents/hehe/rubish/laba4-5/src/main/java/lab/games/config/TomcatConfig.java
+/home/nikittossii/Documents/hehe/rubish/laba4-5/src/main/java/lab/games/service/MyLogin.java
+/home/nikittossii/Documents/hehe/rubish/laba4-5/src/main/java/lab/games/rest/GameController.java
+/home/nikittossii/Documents/hehe/rubish/laba4-5/src/main/java/lab/games/rest/ForbiddenException.java
+/home/nikittossii/Documents/hehe/rubish/laba4-5/src/main/java/lab/games/service/LoggedUserDetailsService.java
+/home/nikittossii/Documents/hehe/rubish/laba4-5/src/main/java/lab/games/db/dao/UserRepository.java
+/home/nikittossii/Documents/hehe/rubish/laba4-5/src/main/java/lab/games/service/LoginService.java
+/home/nikittossii/Documents/hehe/rubish/laba4-5/src/main/java/lab/games/config/WebSecurityConfig.java
+/home/nikittossii/Documents/hehe/rubish/laba4-5/src/main/java/lab/games/config/ControllersConfig.java
